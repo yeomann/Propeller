@@ -31,4 +31,4 @@ Propeller uses requestAnimationFrame and GPU compositing for better performance.
 
 MIT: http://mit-license.org/
 
-Copyright 2014 Denis Radin aka [PixelsCommander](http://pixelscommander.com)
+Copyright 2014 Danish Raza [DanishRaza](http://danishraza.info)
